@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-11-25T21:42:35+03:00" FORMAT="2.7" VERSION="2.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.7.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/wolf/Desktop/Moskva_amv_1973_1.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Moskva_amv_1973_1.mp4"/>
+        <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///Users/wolf/Desktop/Moskva_amv_1973_1.mp4" MEDIA_URL="file:///Users/wolf/Desktop/Moskva_amv_1973_2.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./Moskva_amv_1973_2.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:27cc2326-7545-409f-be54-c8d274b58f02</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">338</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="347010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="354000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="354020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="360010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="360010"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="361985"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="361990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="361990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="362830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="362848"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="363355"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="365640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="365640"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="369708"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="371808"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="372980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="373020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="380520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="380526"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="384356"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="384356"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="391016"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="391016"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="393126"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="393136"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="395700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="395700"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="402313"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="402600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="402600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="405530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="406915"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="407110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="407125"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="407805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="411145"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="411145"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="414725"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="vks" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="amv" TIER_ID="amv@speech">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a316" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>ой они' бы'ли удиви'тельные лю'ди, де'душка тако'й  эээ </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a317" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>он изобрета'телем был наизобре'тал ку'чу каки'х-то изобрете'ний</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a318" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>[смеется]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a319" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>изобрета'л изобрете'ний вот</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a320" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE> вот сде'лал ку'чу откры'тий </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a321" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>вот у нас в большо'м коли'честве лежа'т специа'льные свиде'тельства а'вторские</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a322" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>е'ще не'сколько лет по'сле его' сме'рти приходи'ли письма' с воз… с вознагражде'ниями а'вторскими за э'ти изобрете'ния</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a323" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>но э'то вот всё вот как раз свя'зано с э'тими исто'чниками пита'ния альтернати'вными</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a324" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>вот ааа ба'бушка была' же'нщиной жё'сткой доста'точно</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a325" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>де'душка у нас коне'чно был глава' семьи'</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a326" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>но э'то бы'ло уме'лое руково'дство ба'бушки</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a327" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE>вот а де'душка тако'й типи'чный евре'йский эээ' нау'чный со… сотру'дник семидеся'тых</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a328" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>пря'мо эээ техни'ческая интеллиге'нция в лу'чшем её' проявле'нии </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a329" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>вот де'душка... у де'душки была' о'чень интере'сная семья'</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a330" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>они' все бы'ли в нау'ке</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="vks" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="gestures" PARTICIPANT="amv" TIER_ID="amv@gesture">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a331" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>поправляет волосы</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a332" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>поводит рукой</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a333" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>поднимает кисть щепотью; в движении раскрывает</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a334" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>сжимает кистью левой руки кисть правой</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="vks" DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="gesture_meaning" PARENT_REF="amv@gesture" PARTICIPANT="amv" TIER_ID="amv@gesture-meaning">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a335" ANNOTATION_REF="a331">
+                <ANNOTATION_VALUE>волнуется из-за оговорки</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a336" ANNOTATION_REF="a332">
+                <ANNOTATION_VALUE>иллюстрирует тему разговора (показывает большое количество свидетельств)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a337" ANNOTATION_REF="a333">
+                <ANNOTATION_VALUE>демонстрирует гордость</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a338" ANNOTATION_REF="a334">
+                <ANNOTATION_VALUE>смущение</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" CONTROLLED_VOCABULARY_REF="Gesture phases" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases" DESCRIPTION="Gesture phases">
+        <CV_ENTRY DESCRIPTION="preparation">preparation</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="stroke">stroke</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="hold">hold</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="partial retraction">part.retraction</CV_ENTRY>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="POS" DESCRIPTION="Part of Speech">
+        <CV_ENTRY DESCRIPTION="noun">n</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="verb">v</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="interjection">int</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="adjective">adj</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="pronoun">pro</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="determiner">det</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="article">art</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="preposition">prep</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="adverb">adv</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="conj">con</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="demonstrative pronoun">dem</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="post">post</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="particle">part</CV_ENTRY>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
