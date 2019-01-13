@@ -1,0 +1,961 @@
+# time_begin = 4:44
+
+amv@
+
+# sent_id = 3
+# text = дедушка даже с Королёвым был знаком / вот / а бабушка была специалистом по взрывча… взрывчатым веществам / ааа да / работали они в одном и том же / месте / в одном и том же институте
+1	дедушка	дедушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+2	даже	даже	PART	_	_	_	_	_	_
+3	с	с	ADP	_	_	_	_	_	_
+4	Королёвым	Королёв	PROPN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+5	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+6	знаком	знакомый	ADJ	_	Degree=Pos|Gender=Masc|Number=Sing|Variant=Short	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	вот	вот	PART	_	_	_	_	_	_
+9	/	/	PUNCT	_	_	_	_	_	_
+10	а	а	CCONJ	_	_	_	_	_	_
+11	бабушка	бабушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+12	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+13	специалистом	специалист	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+14	по	по	ADP	_	_	_	_	_	_
+15	взрывча	взрывчатый	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	_	_	_	SpaceAfter=No
+16	…	…	PUNCT	_	_	_	_	_	_
+17	взрывчатым	взрывчатый	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	_	_	_	_
+18	веществам	вещество	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Plur	_	_	_	_
+19	/	/	PUNCT	_	_	_	_	_	_
+20	ааа	ааа	INTJ	_	_	_	_	_
+21	да	да	PART	_	_	_	_	_	_
+22	/	/	PUNCT	_	_	_	_	_	_
+23	работали	работать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+24	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+25	в	в	ADP	_	_	_	_	_	_
+26	одном	один	DET	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+27	и	и	CCONJ	_	_	_	_	_	_
+28	том	тот	DET	_	Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+29	же	же	PART	_	_	_	_	_	_
+30	/	/	PUNCT	_	_	_	_	_	_
+31	месте	место	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+32	/	/	PUNCT	_	_	_	_	_	_
+33	в	в	ADP	_	_	_	_	_	_
+34	одном	один	DET	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+35	и	и	CCONJ	_	_	_	_	_	_
+36	том	тот	DET	_	Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+37	же	же	PART	_	_	_	_	_	_
+38	институте	институт	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+Vks@
+
+# sent_id = 5
+# text = там и познакомились?
+1	там	там	ADV	_	Degree=Pos	_	_	_	_
+2	и	и	PART	_	_	_	_	_	_
+3	познакомились	познакомиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
+4	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+Amv@
+
+# sent_id = 7
+# text = там и познакомились / да / разница между ними [нрзб] было тринадцать лет, была / а / разница тринадцать лет / ааа / как потом выяснилось дедушка даже ушёл из семьи / да / об этом никто никогда не знал / выяснилось это только уже после смерти и дедушки и бабушки
+1	там	там	ADV	_	Degree=Pos	_	_	_	_
+2	и	и	PART	_	_	_	_	_	_
+3	познакомились	познакомиться	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	да	да	CCONJ	_	_	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	разница	разница	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+8	между	между	ADP	_	_	_	_	_	_
+9	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3	_	_	_	_
+10	[нрзб]	[нрзб]	X	_	_	_	_	_	_
+11	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+12	тринадцать	тринадцать	NUM	_	Case=Nom	_	_	_	_
+13	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	_	_	_	_
+15	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	а	а	CCONJ	_	_	_	_	_	_
+18	/	/	PUNCT	_	_	_	_	_	_
+19	разница	разница	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+20	тринадцать	тринадцать	NUM	_	Case=Nom	_	_	_	_
+21	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+22	/	/	PUNCT	_	_	_	_	_	_
+23	ааа	ааа	INTJ	_	_	_	_	_
+24	/	/	PUNCT	_	_	_	_	_	_
+25	как	как	SCONJ	_	_	_	_	_	_
+26	потом	потом	ADV	_	Degree=Pos	_	_	_	_
+27	выяснилось	выяснить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+28	дедушка	дедушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+29	даже	даже	PART	_	_	_	_	_	_
+30	ушёл	уйти	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+31	из	из	ADP	_	_	_	_	_	_
+32	семьи	семья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+33	/	/	PUNCT	_	_	_	_	_	_
+34	да	да	CCONJ	_	_	_	_	_	_
+35	/	/	PUNCT	_	_	_	_	_	_
+36	об	о	ADP	_	_	_	_	_	_
+37	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+38	никто	никто	PRON	_	Case=Nom	_	_	_	_
+39	никогда	никогда	ADV	_	Degree=Pos	_	_	_	_
+40	не	не	PART	_	_	_	_	_	_
+41	знал	знать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+42	/	/	PUNCT	_	_	_	_	_	_
+43	выяснилось	выясниться	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+44	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+45	только	только	PART	_	_	_	_	_	_
+46	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+47	после	после	ADP	_	_	_	_	_	_
+48	смерти	смерть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+49	и	и	CCONJ	_	_	_	_	_	_
+50	дедушки	дедушка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+51	и	и	CCONJ	_	_	_	_	_	_
+52	бабушки	бабушка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+Vks@
+
+# sent_id = 9
+# text = бабушка об этом тоже не знала?
+1	бабушка	бабушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+2	об	о	ADP	_	_	_	_	_	_
+3	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+4	тоже	тоже	PART	_	_	_	_	_	_
+5	не	не	PART	_	_	_	_	_	_
+6	знала	знать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+7	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+Amv@
+
+# sent_id = 11
+# text = нет / бабушка знала / но никто никогда не рассказывал моей маме / об этом!
+1	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	бабушка	бабушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+4	знала	знать	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	но	но	CCONJ	_	_	_	_	_	_
+7	никто	никто	PRON	_	Case=Nom	_	_	_	_
+8	никогда	никогда	ADV	_	Degree=Pos	_	_	_	_
+9	не	не	PART	_	_	_	_	_	_
+10	рассказывал	рассказывать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+11	моей	мой	DET	_	Case=Dat|Gender=Fem|Number=Sing	_	_	_	_
+12	маме	мама	NOUN	_	Animacy=Anim|Case=Dat|Gender=Fem|Number=Sing	_	_	_	_
+13	/	/	PUNCT	_	_	_	_	_	_
+14	об	о	ADP	_	_	_	_	_	_
+15	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+16	!	!	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+Amv@
+
+# sent_id = 13
+# text = да да / И когда мама / эээ / бросила моего папу и ушла от него, когда мне было три года / вот / все её страшно осуждали [смеется]
+1	да	да	CCONJ	_	_	_	_	_	_
+2	да	да	PART	_	_	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	И	и	PART	_	_	_	_	_	_
+5	когда	когда	SCONJ	_	_	_	_	_	_
+6	мама	мама	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+7	/	/	PUNCT	_	_	_	_	_	_
+8	эээ	эээ	INTJ	_	_	_	_	_	_
+9	/	/	PUNCT	_	_	_	_	_	_
+10	бросила	бросить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+11	моего	мой	DET	_	Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+12	папу	папа	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+13	и	и	CCONJ	_	_	_	_	_	_
+14	ушла	уйти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+15	от	от	ADP	_	_	_	_	_	_
+16	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	_	_	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	_
+18	когда	когда	SCONJ	_	_	_	_	_	_
+19	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+20	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+21	три	три	NUM	_	Case=Nom	_	_	_	_
+22	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+23	/	/	PUNCT	_	_	_	_	_	_
+24	вот	вот	PART	_	_	_	_	_	_
+25	/	/	PUNCT	_	_	_	_	_	_
+26	все	весь	PART	_	_	_	_	_	_
+27	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+28	страшно	страшно	ADV	_	Degree=Pos	_	_	_	_
+29	осуждали	осуждать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+30	[	[	PUNCT	_	_	_	_	_	SpaceAfter=No
+31	смеется	смеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
+32	]	]	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+Amv@
+
+# sent_id = 15
+# text = что?
+1	что	что	PRON	_	Case=Nom	_	_	_	SpaceAfter=No
+2	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+Amv@
+
+# sent_id = 17
+# text = все хорошо?
+1	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+2	хорошо	хороший	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	SpaceAfter=No
+3	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+Vks@
+
+# sent_id = 19
+# text = продолжаем / да
+1	продолжаем	продолжать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	да	да	PART	_	_	_	_	_	SpacesAfter=\n\n
+
+Amv@
+
+# sent_id = 21
+# text = а что ты думала?
+1	а	а	CCONJ	_	_	_	_	_	_
+2	что	что	PRON	_	Case=Acc	_	_	_	_
+3	ты	ты	PRON	_	Case=Nom|Number=Sing|Person=2	_	_	_	_
+4	думала	думать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+5	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+Vks@
+
+# sent_id = 23
+# text = завис / давай дальше рассказывай
+1	завис	завис	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	давай	давать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	_
+4	дальше	далеко	ADV	_	Degree=Cmp	_	_	_	_
+5	рассказывай	рассказывать	VERB	_	Aspect=Imp|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	SpacesAfter=\n\n
+
+Amv@
+
+# sent_id = 25
+# text = ладно хорошо / нуу / о чём дальше рассказывать?
+1	ладно	ладно	PART	_	_	_	_	_	_
+2	хорошо	хорошо	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	нуу	ну	ADV	_	Degree=Pos	_	_	_	_
+5	/	/	PUNCT	_	_	_	_	_	_
+6	о	о	ADP	_	_	_	_	_	_
+7	чём	что	PRON	_	Case=Loc	_	_	_	_
+8	дальше	далеко	ADV	_	Degree=Cmp	_	_	_	_
+9	рассказывать	рассказывать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=No
+10	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+Vks@
+
+# sent_id = 27
+# text = мм / ну расскажи побольше про дедушку бабушку
+1	мм	мм	INTJ	_	_	_	_	_
+2	/	/	PUNCT	_	_	_	_	_	_
+3	ну	ну	PART	_	_	_	_	_	_
+4	расскажи	рассказать	VERB	_	Aspect=Perf|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin|Voice=Act	_	_	_	_
+5	побольше	много	ADV	_	Degree=Cmp	_	_	_	_
+6	про	про	ADP	_	_	_	_	_	_
+7	дедушку	дедушка	NOUN	_	Animacy=Anim|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+8	бабушку	бабушка	NOUN	_	Animacy=Anim|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+Amv@
+
+# sent_id = 29
+# text = ой они были удивительные люди, дедушка такой / эээ / он изобретателем был наизобретал кучу каких-то изобретений [смеётся] / изобретал изобретений / вот / сделал кучу открытий / вот у нас в большом количестве лежат / специальные / свидетельства авторские еще несколько лет после его смерти / приходили письма с воз… с вознаграждениями авторскими за эти изобретения / но это вот всё вот как раз связано с этими источниками питания альтернативными / вот / ааа / бабушка была женщиной жёсткой достаточно / дедушка у нас конечно был глава семьи / но это было умелое руководство бабушки / вот / а дедушка такой типичный еврейский эээ научный со… сотрудник семидесятых / прямо / эээ / техническая интеллигенция в лучшем её проявлении / вот / дедушка / у дедушки была очень интересная семья / они все были / в науке / ааа все братья, их было четверо братьев / ааа / один погиб во время войны, а трое были / как раз тожн научными сотрудниками, они… / старший брат изя даже изобрёл игру / которая называлась Цыбико / эта игра продавалась в России / в Советском Союзе тогда / вот / называлась она иначе / не Цыбико / но как по-русски это было я не помню и / ка… почти каждые выходные они собирались / уже будучи там лет семидесяти / собирались / эээ / так называемыми братьями – зятьями / вот как это у нас в семье называлось / и за рюмочкой / ээ / хорошего коньячка / ээ / играли в Цыбико / это было прямо…
+1	ой	ой	INTJ	_	_	_	_	_
+2	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+3	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+4	удивительные	удивительный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+5	люди	человек	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	_	_	_	_
+7	дедушка	дедушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+8	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+9	/	/	PUNCT	_	_	_	_	_	_
+10	эээ	эээ	INTJ	_	_	_	_	_	_
+11	/	/	PUNCT	_	_	_	_	_	_
+12	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+13	изобретателем	изобретатель	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Sing	_	_	_	_
+14	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+15	наизобретал	наизобретать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+16	кучу	куча	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+17	каких-то	какой-то	DET	_	Case=Gen|Number=Plur	_	_	_	_
+18	изобретений	изобретение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	_	_	_	_
+19	[	[	PUNCT	_	_	_	_	_	SpaceAfter=No
+20	смеётся	смеяться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	SpaceAfter=No
+21	]	]	PUNCT	_	_	_	_	_	_
+22	/	/	PUNCT	_	_	_	_	_	_
+23	изобретал	изобретать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+24	изобретений	изобретение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	_	_	_	_
+25	/	/	PUNCT	_	_	_	_	_	_
+26	вот	вот	PART	_	_	_	_	_	_
+27	/	/	PUNCT	_	_	_	_	_	_
+28	сделал	сделать	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+29	кучу	куча	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+30	открытий	открытие	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Plur	_	_	_	_
+31	/	/	PUNCT	_	_	_	_	_	_
+32	вот	вот	PART	_	_	_	_	_	_
+33	у	у	ADP	_	_	_	_	_	_
+34	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	_	_	_	_
+35	в	в	ADP	_	_	_	_	_	_
+36	большом	большой	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+37	количестве	количество	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+38	лежат	лежать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+39	/	/	PUNCT	_	_	_	_	_	_
+40	специальные	специальный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	_
+41	/	/	PUNCT	_	_	_	_	_	_
+42	свидетельства	свидетельство	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	_	_	_	_
+43	авторские	авторский	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+44	еще	еще	ADV	_	Degree=Pos	_	_	_	_
+45	несколько	несколько	NUM	_	Animacy=Inan|Case=Acc	_	_	_	_
+46	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+47	после	после	ADP	_	_	_	_	_	_
+48	его	его	DET	_	_	_	_	_	_
+49	смерти	смерть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+50	/	/	PUNCT	_	_	_	_	_	_
+51	приходили	приходить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+52	письма	письмо	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	_	_	_	_
+53	с	с	ADP	_	_	_	_	_	_
+54	воз	вознаграждение	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	SpaceAfter=No
+55	…	…	PUNCT	_	_	_	_	_	_
+56	с	с	ADP	_	_	_	_	_	_
+57	вознаграждениями	вознаграждение	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	_	_	_	_
+58	авторскими	авторский	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	_	_	_	_
+59	за	за	ADP	_	_	_	_	_	_
+60	эти	этот	DET	_	Case=Acc|Number=Plur	_	_	_	_
+61	изобретения	изобретение	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	_	_	_	_
+62	/	/	PUNCT	_	_	_	_	_	_
+63	но	но	CCONJ	_	_	_	_	_	_
+64	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+65	вот	вот	PART	_	_	_	_	_	_
+66	всё	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+67	вот	вот	PART	_	_	_	_	_	_
+68	как	как	SCONJ	_	_	_	_	_	_
+69	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+70	связано	связать	VERB	_	Aspect=Perf|Gender=Neut|Number=Sing|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	_	_	_	_
+71	с	с	ADP	_	_	_	_	_	_
+72	этими	этот	DET	_	Case=Ins|Number=Plur	_	_	_	_
+73	источниками	источник	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	_	_	_	_
+74	питания	питание	NOUN	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	_
+75	альтернативными	альтернативный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	_	_	_	_
+76	/	/	PUNCT	_	_	_	_	_	_
+77	вот	вот	PART	_	_	_	_	_	_
+78	/	/	PUNCT	_	_	_	_	_	_
+79	ааа	ааа	INTJ	_	_	_	_	_
+80	/	/	PUNCT	_	_	_	_	_	_
+81	бабушка	бабушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+82	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+83	женщиной	женщина	NOUN	_	Animacy=Anim|Case=Ins|Gender=Fem|Number=Sing	_	_	_	_
+84	жёсткой	жёсткий	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	_
+85	достаточно	достаточно	ADV	_	Degree=Pos	_	_	_	_
+86	/	/	PUNCT	_	_	_	_	_	_
+87	дедушка	дедушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+88	у	у	ADP	_	_	_	_	_	_
+89	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	_	_	_	_
+90	конечно	конечно	ADV	_	Degree=Pos	_	_	_	_
+91	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+92	глава	глава	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+93	семьи	семья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+94	/	/	PUNCT	_	_	_	_	_	_
+95	но	но	CCONJ	_	_	_	_	_	_
+96	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+97	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+98	умелое	умелый	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+99	руководство	руководство	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+100	бабушки	бабушка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+101	/	/	PUNCT	_	_	_	_	_	_
+102	вот	вот	PART	_	_	_	_	_	_
+103	/	/	PUNCT	_	_	_	_	_	_
+104	а	а	CCONJ	_	_	_	_	_	_
+105	дедушка	дедушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+106	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+107	типичный	типичный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+108	еврейский	еврейский	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+109	эээ	эээ	INTJ	_	_	_	_	_
+110	научный	научный	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+111	со	сотрудник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+112	…	…	PUNCT	_	_	_	_	_	_
+113	сотрудник	сотрудник	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+114	семидесятых	семидесятый	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	_	_	_	_
+115	/	/	PUNCT	_	_	_	_	_	_
+116	прямо	прямо	ADV	_	Degree=Pos	_	_	_	_
+117	/	/	PUNCT	_	_	_	_	_	_
+118	эээ	эээ	INTJ	_	_	_	_	_	_
+119	/	/	PUNCT	_	_	_	_	_	_
+120	техническая	технический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+121	интеллигенция	интеллигенция	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+122	в	в	ADP	_	_	_	_	_	_
+123	лучшем	лучший	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+124	её	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+125	проявлении	проявление	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+126	/	/	PUNCT	_	_	_	_	_	_
+127	вот	вот	PART	_	_	_	_	_	_
+128	/	/	PUNCT	_	_	_	_	_	_
+129	дедушка	дедушка	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+130	/	/	PUNCT	_	_	_	_	_	_
+131	у	у	ADP	_	_	_	_	_	_
+132	дедушки	дедушка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+133	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+134	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+135	интересная	интересный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+136	семья	семья	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+137	/	/	PUNCT	_	_	_	_	_	_
+138	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+139	все	все	DET	_	Case=Nom|Number=Plur	_	_	_	_
+140	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+141	/	/	PUNCT	_	_	_	_	_	_
+142	в	в	ADP	_	_	_	_	_	_
+143	науке	наука	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+144	/	/	PUNCT	_	_	_	_	_	_
+145	ааа	ааа	INTJ	_	_	_	_	_
+146	все	весь	DET	_	Case=Nom|Number=Plur	_	_	_	_
+147	братья	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+148	,	,	PUNCT	_	_	_	_	_	_
+149	их	они	PRON	_	Case=Gen|Number=Plur|Person=3	_	_	_	_
+150	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+151	четверо	четверо	NUM	_	Case=Nom	_	_	_	_
+152	братьев	брат	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+153	/	/	PUNCT	_	_	_	_	_	_
+154	ааа	ааа	INTJ	_	_	_	_	_
+155	/	/	PUNCT	_	_	_	_	_	_
+156	один	один	NUM	_	Case=Nom|Gender=Masc	_	_	_	_
+157	погиб	погибнуть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+158	во	во	ADP	_	_	_	_	_	_
+159	время	время	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+160	войны	война	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+161	,	,	PUNCT	_	_	_	_	_	_
+162	а	а	CCONJ	_	_	_	_	_	_
+163	трое	трое	NUM	_	Case=Nom	_	_	_	_
+164	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+165	/	/	PUNCT	_	_	_	_	_	_
+166	как	как	SCONJ	_	_	_	_	_	_
+167	раз	раз	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	_	_	_	_
+168	тоже	тоже	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	_
+169	научными	научный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	_	_	_	_
+170	сотрудниками	сотрудник	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
+171	,	,	PUNCT	_	_	_	_	_	_
+172	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	SpaceAfter=No
+173	…	…	PUNCT	_	_	_	_	_	_
+174	/	/	PUNCT	_	_	_	_	_	_
+175	старший	старший	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+176	брат	брат	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+177	Изя	Изя	PROPN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+178	даже	даже	PART	_	_	_	_	_	_
+179	изобрёл	изобрести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+180	игру	игра	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+181	/	/	PUNCT	_	_	_	_	_	_
+182	которая	который	PRON	_	Case=Nom	_	_	_	_
+183	называлась	называться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+184	Цыбико	Цыбико	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+185	/	/	PUNCT	_	_	_	_	_	_
+186	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+187	игра	игра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+188	продавалась	продаваться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	_	_	_	_
+189	в	в	ADP	_	_	_	_	_	_
+190	России	Россия	PROPN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+191	/	/	PUNCT	_	_	_	_	_	_
+192	в	в	ADP	_	_	_	_	_	_
+193	Советском	советский	ADJ	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+194	Союзе	Союз	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+195	тогда	тогда	ADV	_	Degree=Pos	_	_	_	_
+196	/	/	PUNCT	_	_	_	_	_	_
+197	вот	вот	PART	_	_	_	_	_	_
+198	/	/	PUNCT	_	_	_	_	_	_
+199	называлась	называться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+200	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+201	иначе	иначе	ADV	_	Degree=Pos	_	_	_	_
+202	/	/	PUNCT	_	_	_	_	_	_
+203	не	не	PART	_	_	_	_	_	_
+204	Цыбико	Цыбико	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+205	/	/	PUNCT	_	_	_	_	_	_
+206	но	но	CCONJ	_	_	_	_	_	_
+207	как	как	ADV	_	Degree=Pos	_	_	_	_
+208	по-русски	по-русски	ADV	_	Degree=Pos	_	_	_	_
+209	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+210	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+211	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+212	не	не	PART	_	_	_	_	_	_
+213	помню	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+214	и	и	CCONJ	_	_	_	_	_	_
+215	/	/	PUNCT	_	_	_	_	_	_
+216	ка	каждый	DET	_	Case=Acc|Number=Plur	_	_	_	SpaceAfter=No
+217	…	…	PUNCT	_	_	_	_	_	_
+218	почти	почти	ADV	_	Degree=Pos	_	_	_	_
+219	каждые	каждый	DET	_	Case=Acc|Number=Plur	_	_	_	_
+220	выходные	выходной	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	_	_	_
+221	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+222	собирались	собираться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+223	/	/	PUNCT	_	_	_	_	_	_
+224	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+225	будучи	быть	AUX	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Act	_	_	_	_
+226	там	там	ADV	_	Degree=Pos	_	_	_	_
+227	лет	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+228	семидесяти	семьдесят	NUM	_	Case=Gen	_	_	_	_
+229	/	/	PUNCT	_	_	_	_	_	_
+230	собирались	собираться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+231	/	/	PUNCT	_	_	_	_	_	_
+232	эээ	эээ	INTJ	_	_	_	_	_	_
+233	/	/	PUNCT	_	_	_	_	_	_
+234	так	так	ADV	_	Degree=Pos	_	_	_	_
+235	называемыми	называть	VERB	_	Aspect=Imp|Case=Ins|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Pass	_	_	_	_
+236	братьями	брат	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	_	_	_	_
+237	–	–	PUNCT	_	_	_	_	_	_
+238	зятьями	зять	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	_	_	_	_
+239	/	/	PUNCT	_	_	_	_	_	_
+240	вот	вот	PART	_	_	_	_	_	_
+241	как	как	ADV	_	Degree=Pos	_	_	_	_
+242	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+243	у	у	ADP	_	_	_	_	_	_
+244	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	_	_	_	_
+245	в	в	ADP	_	_	_	_	_	_
+246	семье	семья	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	_	_	_	_
+247	называлось	называться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Pass	_	_	_	_
+248	/	/	PUNCT	_	_	_	_	_	_
+249	и	и	PART	_	_	_	_	_	_
+250	за	за	ADP	_	_	_	_	_	_
+251	рюмочкой	рюмочка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	_
+252	/	/	PUNCT	_	_	_	_	_	_
+253	ээ	ээ	INTJ	_	_	_	_	_	_
+254	/	/	PUNCT	_	_	_	_	_	_
+255	хорошего	хороший	ADJ	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+256	коньячка	коньячка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	_
+257	/	/	PUNCT	_	_	_	_	_	_
+258	ээ	ээ	INTJ	_	_	_	_	_	_
+259	/	/	PUNCT	_	_	_	_	_	_
+260	играли	играть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+261	в	в	ADP	_	_	_	_	_	_
+262	Цыбико	Цыбико	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+263	/	/	PUNCT	_	_	_	_	_	_
+264	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+265	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+266	прямо	прямо	ADV	_	Degree=Pos	_	_	_	SpaceAfter=No
+267	…	…	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+Vks@
+
+# sent_id = 31
+# text = а в чем была суть игры?
+1	а	а	CCONJ	_	_	_	_	_	_
+2	в	в	ADP	_	_	_	_	_	_
+3	чем	что	PRON	_	Case=Loc	_	_	_	_
+4	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+5	суть	суть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+6	игры	игра	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+7	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+Amv@
+
+# sent_id = 33
+# text = я не помню / это была какая-то сложная математическая игра я тогда была совсем маленькая / аа / она… / что-то похожее на го, что-то похожее на шахматы но при этом фигурки / они были / ээ / такие разные, пластиковые…
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+2	не	не	PART	_	_	_	_	_	_
+3	помню	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+6	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+7	какая-то	какой-то	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+8	сложная	сложный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+9	математическая	математический	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+10	игра	игра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+11	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+12	тогда	тогда	ADV	_	Degree=Pos	_	_	_	_
+13	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+14	совсем	совсем	ADV	_	Degree=Pos	_	_	_	_
+15	маленькая	маленький	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+16	/	/	PUNCT	_	_	_	_	_	_
+17	аа	аа	INTJ	_	_	_	_	_
+18	/	/	PUNCT	_	_	_	_	_	_
+19	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	SpaceAfter=No
+20	…	…	PUNCT	_	_	_	_	_	_
+21	/	/	PUNCT	_	_	_	_	_	_
+22	что-то	что-то	PRON	_	Case=Nom	_	_	_	_
+23	похожее	похожий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+24	на	на	ADP	_	_	_	_	_	_
+25	Го	Го	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+26	,	,	PUNCT	_	_	_	_	_	_
+27	что-то	что-то	PRON	_	Case=Nom	_	_	_	_
+28	похожее	похожий	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+29	на	на	ADP	_	_	_	_	_	_
+30	шахматы	шахматы	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	_
+31	но	но	CCONJ	_	_	_	_	_	_
+32	при	при	ADP	_	_	_	_	_	_
+33	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+34	фигурки	фигурка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+35	/	/	PUNCT	_	_	_	_	_	_
+36	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+37	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+38	/	/	PUNCT	_	_	_	_	_	_
+39	ээ	ээ	INTJ	_	_	_	_	_	_
+40	/	/	PUNCT	_	_	_	_	_	_
+41	такие	такой	DET	_	Case=Nom|Number=Plur	_	_	_	_
+42	разные	разный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	SpaceAfter=No
+43	,	,	PUNCT	_	_	_	_	_	_
+44	пластиковые	пластиковый	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	SpaceAfter=No
+45	…	…	PUNCT	_	_	_	_	_	_
+
+# sent_id = 34
+# text = Мне практически никто не давал / вот / в неё играть потому что боялись что я потеряю а это была такая большая семейная драгоценность / кстати я не знаю / куда делась эта игра / вот / вообще непонятно / никто её не выкидывал но после смерти бабушки с дедушкой я её не нашла, может быть она была у кого-то из братьёв и они её с собой привозили возможно / вот / не помню / мне казалось у нас в доме тоже была / но фи… да / по поводу фигурок / фи… фигурки были разноцветные и разной формы / вот / какие-то полукруги / какие-то кружочки с выемками / звёздочки / но в чем была суть?
+1	Мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+2	практически	практически	ADV	_	Degree=Pos	_	_	_	_
+3	никто	никто	PRON	_	Case=Nom	_	_	_	_
+4	не	не	PART	_	_	_	_	_	_
+5	давал	давать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+6	/	/	PUNCT	_	_	_	_	_	_
+7	вот	вот	PART	_	_	_	_	_	_
+8	/	/	PUNCT	_	_	_	_	_	_
+9	в	в	ADP	_	_	_	_	_	_
+10	неё	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+11	играть	играть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+12	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+13	что	что	SCONJ	_	_	_	_	_	_
+14	боялись	бояться	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+15	что	что	PRON	_	Case=Acc	_	_	_	_
+16	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+17	потеряю	потерять	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+18	а	а	CCONJ	_	_	_	_	_	_
+19	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+20	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+21	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+22	большая	большой	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+23	семейная	семейный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+24	драгоценность	драгоценность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+25	/	/	PUNCT	_	_	_	_	_	_
+26	кстати	кстати	ADV	_	Degree=Pos	_	_	_	_
+27	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+28	не	не	PART	_	_	_	_	_	_
+29	знаю	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+30	/	/	PUNCT	_	_	_	_	_	_
+31	куда	куда	ADV	_	Degree=Pos	_	_	_	_
+32	делась	деться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+33	эта	этот	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+34	игра	игра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+35	/	/	PUNCT	_	_	_	_	_	_
+36	вот	вот	PART	_	_	_	_	_	_
+37	/	/	PUNCT	_	_	_	_	_	_
+38	вообще	вообще	ADV	_	Degree=Pos	_	_	_	_
+39	непонятно	непонятный	ADJ	_	Degree=Pos|Gender=Neut|Number=Sing|Variant=Short	_	_	_	_
+40	/	/	PUNCT	_	_	_	_	_	_
+41	никто	никто	PRON	_	Case=Nom	_	_	_	_
+42	её	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+43	не	не	PART	_	_	_	_	_	_
+44	выкидывал	выкидывать	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+45	но	но	CCONJ	_	_	_	_	_	_
+46	после	после	ADP	_	_	_	_	_	_
+47	смерти	смерть	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+48	бабушки	бабушка	NOUN	_	Animacy=Anim|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+49	с	с	ADP	_	_	_	_	_	_
+50	дедушкой	дедушка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	_	_	_	_
+51	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+52	её	она	PRON	_	Case=Gen|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+53	не	не	PART	_	_	_	_	_	_
+54	нашла	найти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+55	,	,	PUNCT	_	_	_	_	_	_
+56	может	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+57	быть	быть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+58	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+59	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+60	у	у	ADP	_	_	_	_	_	_
+61	кого-то	кто-то	PRON	_	Case=Gen	_	_	_	_
+62	из	из	ADP	_	_	_	_	_	_
+63	братьёв	брат	NOUN	_	Animacy=An|Case=Gen|Gender=Masc|Number=Plur	_	_	_	_
+64	и	и	CCONJ	_	_	_	_	_	_
+65	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+66	её	она	PRON	_	Case=Acc|Gender=Fem|Number=Sing|Person=3	_	_	_	_
+67	с	с	ADP	_	_	_	_	_	_
+68	собой	себя	PRON	_	Case=Ins	_	_	_	_
+69	привозили	привозить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+70	возможно	возможный	ADV	_	Degree=Pos	_	_	_	_
+71	/	/	PUNCT	_	_	_	_	_	_
+72	вот	вот	PART	_	_	_	_	_	_
+73	/	/	PUNCT	_	_	_	_	_	_
+74	не	не	PART	_	_	_	_	_	_
+75	помню	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+76	/	/	PUNCT	_	_	_	_	_	_
+77	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+78	казалось	казаться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+79	у	у	ADP	_	_	_	_	_	_
+80	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	_	_	_	_
+81	в	в	ADP	_	_	_	_	_	_
+82	доме	дом	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+83	тоже	тоже	PART	_	_	_	_	_	_
+84	была	быть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+85	/	/	PUNCT	_	_	_	_	_	_
+86	но	но	CCONJ	_	_	_	_	_	_
+87	фи	фигурка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
+88	…	…	PUNCT	_	_	_	_	_	_
+89	да	да	PART	_	_	_	_	_	_
+90	/	/	PUNCT	_	_	_	_	_	_
+91	по	по	ADP	_	_	_	_	_	_
+92	поводу	повод	NOUN	_	Animacy=Inan|Case=Dat|Gender=Masc|Number=Sing	_	_	_	_
+93	фигурок	фигурка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	_
+94	/	/	PUNCT	_	_	_	_	_	_
+95	фи	фигурка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+96	…	…	PUNCT	_	_	_	_	_	_
+97	фигурки	фигурка	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+98	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+99	разноцветные	разноцветный	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+100	и	и	CCONJ	_	_	_	_	_	_
+101	разной	разный	ADJ	_	Case=Gen|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+102	формы	форма	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+103	/	/	PUNCT	_	_	_	_	_	_
+104	вот	вот	PART	_	_	_	_	_	_
+105	/	/	PUNCT	_	_	_	_	_	_
+106	какие-то	какой-то	DET	_	Case=Nom|Number=Plur	_	_	_	_
+107	полукруги	полукруг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+108	/	/	PUNCT	_	_	_	_	_	_
+109	какие-то	какой-то	DET	_	Case=Acc|Number=Plur	_	_	_	_
+110	кружочки	кружочка	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Plur	_	_	_	_
+111	с	с	ADP	_	_	_	_	_	_
+112	выемками	выемка	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	_	_	_	_
+113	/	/	PUNCT	_	_	_	_	_	_
+114	звёздочки	звёздочка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	_
+115	/	/	PUNCT	_	_	_	_	_	_
+116	но	но	CCONJ	_	_	_	_	_	_
+117	в	в	ADP	_	_	_	_	_	_
+118	чем	что	PRON	_	Case=Loc	_	_	_	_
+119	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+120	суть	суть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+121	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+Amv@
+
+# sent_id = 36
+# text = было поле картонное и как-то они командами играли в эту игру, но в чем была суть игры вообще не помню / вот но это вот видимо / оттуда моя любовь к настольным играм / вот / потому что это детское воспоминание о том как сидели / ааа / такие / патриархи семьи, там кому-то уже было восемьдесят, старшему Изе было уже тогда восемьдесят / они сидели играли в настольные игры / так серьёзно / вот / ну не обязательно серьёзно / посмеиваясь тоже
+1	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+2	поле	поле	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+3	картонное	картонный	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+4	и	и	CCONJ	_	_	_	_	_	_
+5	как-то	как-то	ADV	_	Degree=Pos	_	_	_	_
+6	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+7	командами	команда	NOUN	_	Animacy=Inan|Case=Ins|Gender=Masc|Number=Plur	_	_	_	_
+8	играли	играть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+9	в	в	ADP	_	_	_	_	_	_
+10	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+11	игру	игра	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	_	_	_	_
+13	но	но	CCONJ	_	_	_	_	_	_
+14	в	в	ADP	_	_	_	_	_	_
+15	чем	что	PRON	_	Case=Loc	_	_	_	_
+16	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+17	суть	суть	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+18	игры	игра	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+19	вообще	вообще	ADV	_	Degree=Pos	_	_	_	_
+20	не	не	PART	_	_	_	_	_	_
+21	помню	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+22	/	/	PUNCT	_	_	_	_	_	_
+23	вот	вот	PART	_	_	_	_	_	_
+24	но	но	CCONJ	_	_	_	_	_	_
+25	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+26	вот	вот	PART	_	_	_	_	_	_
+27	видимо	видимо	ADV	_	Degree=Pos	_	_	_	_
+28	/	/	PUNCT	_	_	_	_	_	_
+29	оттуда	оттуда	ADV	_	Degree=Pos	_	_	_	_
+30	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+31	любовь	любовь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+32	к	к	ADP	_	_	_	_	_	_
+33	настольным	настольный	ADJ	_	Case=Dat|Degree=Pos|Number=Plur	_	_	_	_
+34	играм	игра	NOUN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Plur	_	_	_	_
+35	/	/	PUNCT	_	_	_	_	_	_
+36	вот	вот	PART	_	_	_	_	_	_
+37	/	/	PUNCT	_	_	_	_	_	_
+38	потому	потому	ADV	_	Degree=Pos	_	_	_	_
+39	что	что	SCONJ	_	_	_	_	_	_
+40	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+41	детское	детский	ADJ	_	Case=Nom|Degree=Pos|Gender=Neut|Number=Sing	_	_	_	_
+42	воспоминание	воспоминание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+43	о	о	ADP	_	_	_	_	_	_
+44	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	_	_	_	_
+45	как	как	SCONJ	_	_	_	_	_	_
+46	сидели	сидеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+47	/	/	PUNCT	_	_	_	_	_	_
+48	ааа	ааа	INTJ	_	_	_	_	_
+49	/	/	PUNCT	_	_	_	_	_	_
+50	такие	такой	DET	_	Case=Nom|Number=Plur	_	_	_	_
+51	/	/	PUNCT	_	_	_	_	_	_
+52	патриархи	патриарх	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Plur	_	_	_	_
+53	семьи	семья	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+54	,	,	PUNCT	_	_	_	_	_	_
+55	там	там	ADV	_	Degree=Pos	_	_	_	_
+56	кому-то	кто-то	PRON	_	Case=Dat	_	_	_	_
+57	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+58	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+59	восемьдесят	восемьдесят	NUM	_	Case=Nom	_	_	_	SpaceAfter=No
+60	,	,	PUNCT	_	_	_	_	_	_
+61	старшему	старший	ADJ	_	Case=Dat|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
+62	Изе	Изя	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	_	_	_	_
+63	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+64	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+65	тогда	тогда	ADV	_	Degree=Pos	_	_	_	_
+66	восемьдесят	восемьдесят	NUM	_	Case=Nom	_	_	_	_
+67	/	/	PUNCT	_	_	_	_	_	_
+68	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+69	сидели	сидеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+70	играли	играть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+71	в	в	ADP	_	_	_	_	_	_
+72	настольные	настольный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Number=Plur	_	_	_	_
+73	игры	игра	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	_
+74	/	/	PUNCT	_	_	_	_	_	_
+75	так	так	ADV	_	Degree=Pos	_	_	_	_
+76	серьёзно	серьёзно	ADV	_	Degree=Pos	_	_	_	_
+77	/	/	PUNCT	_	_	_	_	_	_
+78	вот	вот	PART	_	_	_	_	_	_
+79	/	/	PUNCT	_	_	_	_	_	_
+80	ну	ну	PART	_	_	_	_	_	_
+81	не	не	PART	_	_	_	_	_	_
+82	обязательно	обязательно	ADV	_	Degree=Pos	_	_	_	_
+83	серьёзно	серьёзно	ADV	_	Degree=Pos	_	_	_	_
+84	/	/	PUNCT	_	_	_	_	_	_
+85	посмеиваясь	посмеиваться	VERB	_	Aspect=Imp|Tense=Pres|VerbForm=Conv|Voice=Mid	_	_	_	_
+86	тоже	тоже	PART	_	_	_	_	_	SpacesAfter=\n\n
+
+Vks@
+
+# sent_id = 38
+# text = а вот только в Цыбико играли или ещё какие-ниубдь шахматы тоже?
+1	а	а	CCONJ	_	_	_	_	_	_
+2	вот	вот	PART	_	_	_	_	_	_
+3	только	только	PART	_	_	_	_	_	_
+4	в	в	ADP	_	_	_	_	_	_
+5	Цыбико	Цыбико	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+6	играли	играть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+7	или	или	CCONJ	_	_	_	_	_	_
+8	ещё	еще	ADV	_	Degree=Pos	_	_	_	_
+9	какие-нибудь	какой-нибудь	ADV	_	Degree=Pos	_	_	_	_
+10	шахматы	шахматы	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	_
+11	тоже	тоже	PART	_	_	_	_	_	SpaceAfter=No
+12	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+Amv@
+
+# sent_id = 40
+# text = помню Цыбико / в шахматы они конечно играли, но поскольку приезжали / как правило их было четверо / вот / играющих / то соответственно / в Цыбико можно было вчетвером играть, а шахматы это ж только игра на двоих / вот / поэтому ну…
+1	помню	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+2	Цыбико	Цыбико	PROPN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+3	/	/	PUNCT	_	_	_	_	_	_
+4	в	в	ADP	_	_	_	_	_	_
+5	шахматы	шахматы	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	_
+6	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	_	_	_	_
+7	конечно	конечно	ADV	_	Degree=Pos	_	_	_	_
+8	играли	играть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+9	,	,	PUNCT	_	_	_	_	_	_
+10	но	но	CCONJ	_	_	_	_	_	_
+11	поскольку	поскольку	SCONJ	_	_	_	_	_	_
+12	приезжали	приезжать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+13	/	/	PUNCT	_	_	_	_	_	_
+14	как	как	SCONJ	_	_	_	_	_	_
+15	правило	правило	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+16	их	они	PRON	_	Case=Gen|Number=Plur|Person=3	_	_	_	_
+17	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+18	четверо	четверо	NUM	_	Case=Nom	_	_	_	_
+19	/	/	PUNCT	_	_	_	_	_	_
+20	вот	вот	PART	_	_	_	_	_	_
+21	/	/	PUNCT	_	_	_	_	_	_
+22	играющих	играть	VERB	_	Aspect=Imp|Case=Gen|Number=Plur|Tense=Pres|VerbForm=Part|Voice=Act	_	_	_	_
+23	/	/	PUNCT	_	_	_	_	_	_
+24	то	то	SCONJ	_	_	_	_	_	_
+25	соответственно	соответственно	ADV	_	Degree=Pos	_	_	_	_
+26	/	/	PUNCT	_	_	_	_	_	_
+27	в	в	ADP	_	_	_	_	_	_
+28	Цыбико	Цыбико	PROPN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+29	можно	можно	ADV	_	Degree=Pos	_	_	_	_
+30	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+31	вчетвером	вчетвером	ADV	_	Degree=Pos	_	_	_	_
+32	играть	играть	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	SpaceAfter=No
+33	,	,	PUNCT	_	_	_	_	_	_
+34	а	а	CCONJ	_	_	_	_	_	_
+35	шахматы	шахматы	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Plur	_	_	_	_
+36	это	это	PRON	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	_	_	_	_
+37	ж	же	PART	_	_	_	_	_	_
+38	только	только	PART	_	_	_	_	_	_
+39	игра	игра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+40	на	на	ADP	_	_	_	_	_	_
+41	двоих	двое	NUM	_	Animacy=Anim|Case=Acc	_	_	_	_
+42	/	/	PUNCT	_	_	_	_	_	_
+43	вот	вот	PART	_	_	_	_	_	_
+44	/	/	PUNCT	_	_	_	_	_	_
+45	поэтому	поэтому	ADV	_	Degree=Pos	_	_	_	_
+46	ну	ну	PART	_	_	_	_	_	SpaceAfter=No
+47	…	…	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+Vks@
+
+# sent_id = 42
+# text = а какие-нибудь ещё игры?
+1	а	а	CCONJ	_	_	_	_	_	_
+2	какие-нибудь	какой-нибудь	DET	_	Case=Nom|Number=Plur	_	_	_	_
+3	ещё	еще	DET	_	_	_	_	_	_
+4	игры	игра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
+5	?	?	PUNCT	_	_	_	_	_	SpacesAfter=\n\n
+
+Amv@
+
+# sent_id = 44
+# text = не помню… / нет мне кажется только Цыбико, это была какая-то специальная семейная игра, как потом выяснилось Изя изобрёл еще несколько игр / вот / я уже потом искала в интернете и нашла / вот / эту игру и какие-то другие / игры / то есть он такой был / ну хобби у него такое было / игры изобретать / очень мило / вот / ну вот собственно / про игры
+1	не	не	PART	_	_	_	_	_	_
+2	помню	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	SpaceAfter=No
+3	…	…	PUNCT	_	_	_	_	_	_
+4	/	/	PUNCT	_	_	_	_	_	_
+5	нет	нет	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+6	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	_	_	_	_
+7	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	_
+8	только	только	PART	_	_	_	_	_	_
+9	Цыбико	Цыбико	PROPN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	_	_	_	_
+11	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+12	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+13	какая-то	какой-то	DET	_	Case=Nom|Gender=Fem|Number=Sing	_	_	_	_
+14	специальная	специальный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+15	семейная	семейный	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
+16	игра	игра	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+17	,	,	PUNCT	_	_	_	_	_	_
+18	как	как	SCONJ	_	_	_	_	_	_
+19	потом	потом	ADV	_	Degree=Pos	_	_	_	_
+20	выяснилось	выяснить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	_	_	_	_
+21	Изя	Изя	PROPN	_	Animacy=Anim|Case=Dat|Gender=Masc|Number=Sing	_	_	_	_
+22	изобрёл	изобрести	VERB	_	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+23	еще	еще	ADV	_	Degree=Pos	_	_	_	_
+24	несколько	несколько	NUM	_	Case=Nom	_	_	_	_
+25	игр	игра	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	_	_	_	_
+26	/	/	PUNCT	_	_	_	_	_	_
+27	вот	вот	PART	_	_	_	_	_	_
+28	/	/	PUNCT	_	_	_	_	_	_
+29	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	_	_	_	_
+30	уже	уже	ADV	_	Degree=Pos	_	_	_	_
+31	потом	потом	ADV	_	Degree=Pos	_	_	_	_
+32	искала	искать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+33	в	в	ADP	_	_	_	_	_	_
+34	интернете	интернет	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	_	_	_	_
+35	и	и	CCONJ	_	_	_	_	_	_
+36	нашла	найти	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+37	/	/	PUNCT	_	_	_	_	_	_
+38	вот	вот	PART	_	_	_	_	_	_
+39	/	/	PUNCT	_	_	_	_	_	_
+40	эту	этот	DET	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+41	игру	игра	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	_
+42	и	и	CCONJ	_	_	_	_	_	_
+43	какие-то	какой-то	DET	_	Case=Nom|Number=Plur	_	_	_	_
+44	другие	другой	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	_	_	_	_
+45	/	/	PUNCT	_	_	_	_	_	_
+46	игры	игра	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+47	/	/	PUNCT	_	_	_	_	_	_
+48	то	то	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+49	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	_
+50	он	он	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+51	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	_	_	_	_
+52	был	быть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+53	/	/	PUNCT	_	_	_	_	_	_
+54	ну	ну	PART	_	_	_	_	_	_
+55	хобби	хобби	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+56	у	у	ADP	_	_	_	_	_	_
+57	него	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	_	_	_	_
+58	такое	такой	DET	_	Case=Nom|Gender=Neut|Number=Sing	_	_	_	_
+59	было	быть	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	_
+60	/	/	PUNCT	_	_	_	_	_	_
+61	игры	игра	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	_
+62	изобретать	изобретать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	_	_	_	_
+63	/	/	PUNCT	_	_	_	_	_	_
+64	очень	очень	ADV	_	Degree=Pos	_	_	_	_
+65	мило	мило	ADV	_	Degree=Pos	_	_	_	_
+66	/	/	PUNCT	_	_	_	_	_	_
+67	вот	вот	PART	_	_	_	_	_	_
+68	/	/	PUNCT	_	_	_	_	_	_
+69	ну	ну	PART	_	_	_	_	_	_
+70	вот	вот	PART	_	_	_	_	_	_
+71	собственно	собственно	ADV	_	Degree=Pos	_	_	_	_
+72	/	/	PUNCT	_	_	_	_	_	_
+73	про	про	ADP	_	_	_	_	_	_
+74	игры	игра	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+# time_end = 9:46
+
